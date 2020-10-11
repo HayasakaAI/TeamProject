@@ -1,0 +1,46 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>IMAGE/agree.png</file>
+        <file>IMAGE/baidu.png</file>
+        <file>IMAGE/blk1.bmp</file>
+        <file>IMAGE/blk2.bmp</file>
+        <file>IMAGE/blk3.bmp</file>
+        <file>IMAGE/blk4.bmp</file>
+        <file>IMAGE/blk5.bmp</file>
+        <file>IMAGE/blk6.bmp</file>
+        <file>IMAGE/blk7.bmp</file>
+        <file>IMAGE/block_close.bmp</file>
+        <file>IMAGE/block_open.bmp</file>
+        <file>IMAGE/boom.bmp</file>
+        <file>IMAGE/clickboom.bmp</file>
+        <file>IMAGE/ele0.bmp</file>
+        <file>IMAGE/ele1.bmp</file>
+        <file>IMAGE/ele2.bmp</file>
+        <file>IMAGE/ele3.bmp</file>
+        <file>IMAGE/ele4.bmp</file>
+        <file>IMAGE/ele5.bmp</file>
+        <file>IMAGE/ele6.bmp</file>
+        <file>IMAGE/ele7.bmp</file>
+        <file>IMAGE/ele8.bmp</file>
+        <file>IMAGE/ele9.bmp</file>
+        <file>IMAGE/ele10.bmp</file>
+        <file>IMAGE/good.png</file>
+        <file>IMAGE/keilboom.bmp</file>
+        <file>IMAGE/look.bmp</file>
+        <file>IMAGE/lose.bmp</file>
+        <file>IMAGE/low.png</file>
+        <file>IMAGE/mine_title.bmp</file>
+        <file>IMAGE/proud.bmp</file>
+        <file>IMAGE/redflag.bmp</file>
+        <file>IMAGE/smile.bmp</file>
+        <file>IMAGE/unknow.png</file>
+        <file>IMAGE/win.png</file>
+        <file>IMAGE/字符8.bmp</file>
+        <file>IMAGE/cover.jpg</file>
+        <file>IMAGE/start.png</file>
+        <file>IMAGE/quit.png</file>
+        <file>IMAGE/background.png</file>
+        <file>IMAGE/button.png</file>
+        <file>IMAGE/button1.png</file>
+    </qresource>
+</RCC>
